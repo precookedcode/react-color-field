@@ -10,6 +10,15 @@
   },
   "author": "Roberto Carraro",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "^18.3.12"
+  },
+  "dependencies": {
+    "@precooked/react-icon-button": "^1.0.16",
+    "@precooked/react-popover": "^1.0.8",
+    "@precooked/utils": "^1.0.4"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  }
 }
